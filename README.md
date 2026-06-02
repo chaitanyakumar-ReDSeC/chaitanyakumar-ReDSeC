@@ -1,10 +1,9 @@
 <h1 align="center">
   Chaitanya Kumar Sathivada
   <br>
-  <a href="https://www.infinite.com/">
+  <a href="https://github.com/chaitanyakumar-ReDSeC?tab=repositories">
     <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/RedSec_watermark.png" alt="ReDSeC"  height=200rem>
   </a>
-  
 </h1>
 
 <p style="text-align: justify;">
