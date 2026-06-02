@@ -1,44 +1,32 @@
-# Hello, I'm Chaitanya Kumar
+<h1 align="center">
+  Chaitanya Kumar Sathivada
+  <br>
+  <a href="https://www.infinite.com/">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/RedSec_watermark.png" alt="ReDSeC"  height=200rem>
+  </a>
+  
+</h1>
 
-I build solutions that bridge the gap between complex automation and intuitive user experiences. My focus lies in developing efficient, scalable software—ranging from security-conscious automation to interactive media tools—often leveraging the power of AI to streamline workflows.
+<p style="text-align: justify;">
+  
+</p>
 
----
+> **Under Progress | Building Profile**
 
-### 🛠 Tech Stack
-I thrive in environments where performance and rapid development intersect.
+<h3 align="center">
+  Toys I Work With
+  <br>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/animated/vscode.gif" height=50rem width=50rem></a>
+<a href="https://www.python.org/"><img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/python.png" height=50rem width=50rem></a>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/html-5.png" height=50rem width=50rem></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/css-3.png" height=50rem width=50rem></a>
+<a href="https://react.dev/"><img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/animated/react.gif" height=50rem width=50rem></a>
+</h1>
 
-* **Languages:** Python, JavaScript/TypeScript (Node.js)
-* **Frontend:** React, Vite
-* **AI & Integration:** LLMs, Google AI Studio
-* **DevOps & Tools:** Docker, VS Code, Stitch
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| **S.A.V.E** | Advanced automation framework designed for efficient system operations. |
-| **A.R.C-Move** | Intelligent file and data management utility. |
-| **CapIT** | Streamlined capture and processing tool for digital media. |
-| **ffmpeg-wrapper** | A clean, developer-friendly abstraction layer for powerful media processing. |
-| **PopCorn** | Media-centric utility built for seamless content interaction. |
-| **Flip-Clock** | A minimalist, high-performance visual component for time tracking. |
-
----
-
-### 🌐 Currently Exploring
-* **Agentic Workflows:** Moving beyond simple LLM prompts to autonomous, multi-step problem solving.
-* **System Optimization:** Finding new ways to leverage Docker to keep local and production environments perfectly mirrored.
-* **Human-Computer Interaction:** Refining the UI/UX of technical tools to make powerful software feel effortless.
-
----
-
-### ☕ Let’s Connect
-I am always open to discussing new ideas, collaborative projects, or the latest breakthroughs in AI. If you're building something interesting or just want to talk shop:
-
-* **Reach out:** [chaitanyakumarsathivada@gmail.com](chaitanyakumarsathivada@gmail.com)
-* **Connect:** [linkedin.com/in/chaitanya-kumar-sathivada/](https://www.linkedin.com/in/chaitanya-kumar-sathivada/)
-* **Explore:** Check out my [repositories](https://github.com/chaitanyakumar-ReDSeC?tab=repositories) for a closer look at my code.
-
-> "Simplicity is the ultimate sophistication." — Let's build something efficient together.
+## Contacts
+<a href="https://github.com/chaitanyakumar-ReDSeC">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/github_profile.png" alt="GitHub" height=50>
+</a>
+<a href="https://www.linkedin.com/in/chaitanya-kumar-sathivada/">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50>
+</a>
