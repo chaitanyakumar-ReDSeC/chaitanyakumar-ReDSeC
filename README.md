@@ -23,9 +23,10 @@
 </h1>
 
 ## Contacts
+<p> Reach me out!
 <a href="https://github.com/chaitanyakumar-ReDSeC">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/github_profile.png" alt="GitHub" height=50>
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/github_profile.png" alt="GitHub" height=50 align="right">
 </a>
 <a href="https://www.linkedin.com/in/chaitanya-kumar-sathivada/">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50>
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/linkedin_profile.png" alt="LinkedIn" height=50 align="right">
 </a>
